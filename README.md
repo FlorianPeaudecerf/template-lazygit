@@ -10,7 +10,7 @@
 
 ## Lazy Git User Guide
 
-This Lazygit repository can certainly make working with Git easier. Here are some ways Lazygit can make using Git easier and more efficient [text](../documentation.md).
+This Lazygit repository can certainly make working with Git easier. Here are some ways Lazygit can make using Git easier and more efficient.
 
 </div>
 
