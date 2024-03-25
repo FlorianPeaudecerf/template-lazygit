@@ -4,13 +4,13 @@
 ![GitHub issues](https://img.shields.io/github/issues/Simplon-hdf/structure-projet?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/Simplon-hdf/structure-projet?style=for-the-badge)
 
-<h1 align="center">Project name</h1>
+<h1 align="center">Lazy Git</h1>
 
 <div align="center">
 
-## Project Description
+## Lazy Git User Guide
 
-Ce dépôt est une structure permettant de démarrer un projet professionnel ou personnel. Ceci vous fera gagner un temps précieux et maximiser votre temps de travail.
+This Lazygit repository can certainly make working with Git easier. Here are some ways Lazygit can make using Git easier and more efficient [text](../documentation.md).
 
 </div>
 
