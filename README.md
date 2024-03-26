@@ -32,7 +32,7 @@ This Lazygit repository can certainly make working with Git easier. Here are som
   - Dossier
     - [ ] .config
     - [ ] dep
-    - [ ] doc
+    - [ ] docs
     - [ ] res
     - [ ] samples
     - [ ] tools
